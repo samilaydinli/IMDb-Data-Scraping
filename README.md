@@ -2,7 +2,7 @@
 
 Application Programming Interfaces – API
 
-##The menu consist of:
+## The menu consist of:
 1) Top 250 Movies
 2) Most Popular Movies
 3) InTheaters
